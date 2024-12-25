@@ -11,4 +11,4 @@ export default function Clientside() {
     });
   });
   return <div>I am client side - {greeting}</div>;
-}
+} 
